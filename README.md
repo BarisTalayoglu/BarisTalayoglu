@@ -3,15 +3,15 @@
 
 - 🔭  I’m currently working on **gaining knowledge on CS fundamentals and self-improvement**
 
-- 🌱  I’m currently learning **Algorithms,Java,Python,Embedded**
+- 🌱  I’m currently learning **Algorithms,Data Structures,Java,Python,C/C++**
 
 - 📫  How to reach me **baristalayoglu@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bar%c4%b1%c5%9f-talayo%c4%9flu-8b6b2a170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bar%c4%b1%c5%9f-talayo%c4%9flu-8b6b2a170/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/baris-talayoglu-8b6b2a170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baris-talayoglu-8b6b2a170/" height="30" width="40" /></a>
 <a href="https://instagram.com/baristalayoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baristalayoglu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/baris talay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baris talay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKTgDet_mYzZaCR4HDiF2eA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="baris talay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
