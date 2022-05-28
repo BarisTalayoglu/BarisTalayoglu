@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working on **gaining knowledge on CS fundamentals and self-improvement**
 
-- 🌱  I’m currently learning **Algorithms,Data Structures,Java,Python,C/C++**
+- 🌱  I’m currently grinding on **Algorithms,Data Structures,Java,Python,C/C++**
 
 - 📫  How to reach me **baristalayoglu@hotmail.com**
 
