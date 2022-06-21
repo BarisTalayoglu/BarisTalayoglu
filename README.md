@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Barış</h1>
+<h1 align="center">Hey I'm Barış</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭  I’m currently working on **gaining knowledge on CS fundamentals and self-improvement**
+-🟩  I’m currently **gaining knowledge about CS fundamentals and self-improvement**
 
-- 🌱  I’m currently grinding on **Algorithms,Data Structures,Java,Python,C/C++**
+-🟩  And grinding on **Algorithms,Data Structures,Java,Python,C/C++**
 
 - 📫  How to reach me **baristalayoglu@hotmail.com**
 
