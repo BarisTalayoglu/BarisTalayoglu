@@ -1,11 +1,11 @@
 <h1 align="center">Hey I'm Barış</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h4 align="center">-🟩  I’m currently **gaining knowledge about CS fundamentals and self-improvement**
+<h4 align="center">🟩  I’m currently **gaining knowledge about CS fundamentals and self-improvement**
 
--🟩  And grinding on **Algorithms,Data Structures,Java,Python,C/C++**
+🟩  And grinding on **Algorithms,Data Structures,Java,Python,C/C++**
 
-- 📫 How to reach me **baristalayoglu@hotmail.com**
+🟩 How to reach me **baristalayoglu@hotmail.com**
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
