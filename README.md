@@ -1,12 +1,12 @@
 <h1 align="center">Hey I'm Barış</h1>
 <h3 align="center">Software Engineer</h3>
 
--🟩  I’m currently **gaining knowledge about CS fundamentals and self-improvement**
+<h4 align="center">-🟩  I’m currently **gaining knowledge about CS fundamentals and self-improvement**
 
 -🟩  And grinding on **Algorithms,Data Structures,Java,Python,C/C++**
 
-- 📫  How to reach me **baristalayoglu@hotmail.com**
-
+- 📫 How to reach me **baristalayoglu@hotmail.com**
+</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/baris-talayoglu-8b6b2a170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baris-talayoglu-8b6b2a170/" height="30" width="40" /></a>
