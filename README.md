@@ -1,9 +1,9 @@
 <h1 align="center">Hey I'm Barış</h1>
 <h3 align="center">Software Engineer</h3>
 
-<h4 align="center">🟩  I’m currently developing my own projects and my main focus is self-improvement**
+<h4 align="center">🟩  I’m currently developing my own projects and my main focus is self-improvement
 
-🟩  And grinding on **Algorithms,Data Structures,Java, SpringBoot, Hibernate, Python, C/C++**
+🟩  And grinding on **Algorithms, Data Structures, Java, SpringBoot, Hibernate, Python, C/C++**
 
 🟩 How to reach me **baristalayoglu@hotmail.com**
 </h4>
